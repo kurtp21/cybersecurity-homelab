@@ -36,3 +36,5 @@ This repository documents my 100-day journey building a cybersecurity homelab fo
 ## 🚀 Progress
 
 * Day 1 ✅ Started homelab setup
+* Day 2 ✅ Network Design & Virtual Lab Planning
+* Day 2 ✅ VirtualBox: Configuring Virtual Machines
