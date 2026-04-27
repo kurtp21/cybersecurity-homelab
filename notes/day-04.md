@@ -1,4 +1,4 @@
-# Day 4 - Active Directory Setup
+# Day 4 - Active Directory and Domain Setup
 
 ## 🎯 Objective
 
