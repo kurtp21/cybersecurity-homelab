@@ -38,64 +38,64 @@ This lab will go through the configuration steps for the configuration of the VM
 ### Domain Controller - Windows Server
 
 **Domain Controller VM Specs:**
-![DC-Specs](./screenshots/vb-setup-01.png)
-![DC-Specs](./screenshots/vb-setup-02.png)
-![DC-Spces](./screenshots/vb-setup-03.png)
+![DC-Specs](../screenshots/vb-setup-01.png)
+![DC-Specs](../screenshots/vb-setup-02.png)
+![DC-Spces](../screenshots/vb-setup-03.png)
 
 **Domain Controller Launch Set-up:**
-![DC-Setup](./screenshots/dc-setup-01.png)
-![DC-Setup](./screenshots/dc-setup-02.png)
-![DC-Setup](./screenshots/dc-setup-03.png)
-![DC-Setup](./screenshots/dc-setup-04.png)
-![DC-Setup](./screenshots/dc-setup-05.png)
+![DC-Setup](../screenshots/dc-setup-01.png)
+![DC-Setup](../screenshots/dc-setup-02.png)
+![DC-Setup](../screenshots/dc-setup-03.png)
+![DC-Setup](../screenshots/dc-setup-04.png)
+![DC-Setup](../screenshots/dc-setup-05.png)
 
 ### SIEM Server - Ubuntu
 
 **SIEM Server VM Specs:**
-![SIEM-Specs](./screenshots/siem-setup-01.png)
-![SIEM-Specs](./screenshots/siem-setup-02.png)
-![SIEM-Specs](./screenshots/siem-setup-03.png)
-![SIEM-Specs](./screenshots/siem-setup-04.png)
+![SIEM-Specs](../screenshots/siem-setup-01.png)
+![SIEM-Specs](../screenshots/siem-setup-02.png)
+![SIEM-Specs](../screenshots/siem-setup-03.png)
+![SIEM-Specs](../screenshots/siem-setup-04.png)
 
 **SIEM Server Launch Set-up:**
-![SIEM-Setup](./screenshots/siem-setup-05.png)
-![SIEM-Setup](./screenshots/siem-setup-06.png)
-![SIEM-Setup](./screenshots/siem-setup-07.png)
-![SIEM-Setup](./screenshots/siem-setup-08.png)
-![SIEM-Setup](./screenshots/siem-setup-09.png)
-![SIEM-Setup](./screenshots/siem-setup-10.png)
-![SIEM-Setup](./screenshots/siem-setup-11.png)
-![SIEM-Setup](./screenshots/siem-setup-12.png)
-![SIEM-Setup](./screenshots/siem-setup-13.png)
-![SIEM-Setup](./screenshots/siem-setup-14.png)
-![SIEM-Setup](./screenshots/siem-setup-15.png)
-![SIEM-Setup](./screenshots/siem-setup-16.png)
-![SIEM-Setup](./screenshots/siem-setup-17.png)
+![SIEM-Setup](../screenshots/siem-setup-05.png)
+![SIEM-Setup](../screenshots/siem-setup-06.png)
+![SIEM-Setup](../screenshots/siem-setup-07.png)
+![SIEM-Setup](../screenshots/siem-setup-08.png)
+![SIEM-Setup](../screenshots/siem-setup-09.png)
+![SIEM-Setup](../screenshots/siem-setup-10.png)
+![SIEM-Setup](../screenshots/siem-setup-11.png)
+![SIEM-Setup](../screenshots/siem-setup-12.png)
+![SIEM-Setup](../screenshots/siem-setup-13.png)
+![SIEM-Setup](../screenshots/siem-setup-14.png)
+![SIEM-Setup](../screenshots/siem-setup-15.png)
+![SIEM-Setup](../screenshots/siem-setup-16.png)
+![SIEM-Setup](../screenshots/siem-setup-17.png)
 
 ### Client Machine - Windows 10
 
 **Client Machine VM Specs:**
-![Client-Specs](./screenshots/windows-setup-01.png)
-![Client-Specs](./screenshots/windows-setup-02.png)
-![Client-Specs](./screenshots/windows-setup-03.png)
-![Client-Specs](./screenshots/windows-setup-04.png)
+![Client-Specs](../screenshots/windows-setup-01.png)
+![Client-Specs](../screenshots/windows-setup-02.png)
+![Client-Specs](../screenshots/windows-setup-03.png)
+![Client-Specs](../screenshots/windows-setup-04.png)
 
 **Client Machine Launch Set-up:**
-![Client-Set-up](./screenshots/windows-setup-05.png)
-![Client-Set-up](./screenshots/windows-setup-06.png)
-![Client-Set-up](./screenshots/windows-setup-07.png)
-![Client-Set-up](./screenshots/windows-setup-08.png)
+![Client-Set-up](../screenshots/windows-setup-05.png)
+![Client-Set-up](../screenshots/windows-setup-06.png)
+![Client-Set-up](../screenshots/windows-setup-07.png)
+![Client-Set-up](../screenshots/windows-setup-08.png)
 
 ### Attacker Machine - Kali Linux
 
 **Attacker Machine VM Specs:**
-![Attacker-Specs](./screenshots/kali-setup-01.png)
-![Attacker-Specs](./screenshots/kali-setup-02.png)
-![Attacker-Specs](./screenshots/kali-setup-03.png)
+![Attacker-Specs](../screenshots/kali-setup-01.png)
+![Attacker-Specs](../screenshots/kali-setup-02.png)
+![Attacker-Specs](../screenshots/kali-setup-03.png)
 
 **Attacker Machine Launch Set-up:**
-![Attacker-Setup](./screenshots/kali-setup-04.png)
-![Attacker-Setup](./screenshots/kali-setup-05.png)
+![Attacker-Setup](../screenshots/kali-setup-04.png)
+![Attacker-Setup](../screenshots/kali-setup-05.png)
 
 ## 📡 Internal Network Testing
 
@@ -109,21 +109,21 @@ In this Lab the Attacker Machine was configured to NAT but I have also enabled i
 
 ### Test Results
 
-![Net-Test](./screenshots/network-test-01.png)
-![Net-Test](./screenshots/network-test-02.png)
-![Net-Test](./screenshots/network-test-03.png)
-![Net-Test](./screenshots/network-test-04.png)
-![Net-Test](./screenshots/network-test-05.png)
-![Net-Test](./screenshots/network-test-06.png)
-![Net-Test](./screenshots/network-test-07.png)
-![Net-Test](./screenshots/network-test-08.png)
-![Net-Test](./screenshots/network-test-09.png)
+![Net-Test](../screenshots/network-test-01.png)
+![Net-Test](../screenshots/network-test-02.png)
+![Net-Test](../screenshots/network-test-03.png)
+![Net-Test](../screenshots/network-test-04.png)
+![Net-Test](../screenshots/network-test-05.png)
+![Net-Test](../screenshots/network-test-06.png)
+![Net-Test](../screenshots/network-test-07.png)
+![Net-Test](../screenshots/network-test-08.png)
+![Net-Test](../screenshots/network-test-09.png)
 
 **Attacker Machine on Internal Network Test Reaults:**
-![Net-Test](./screenshots/kali-setup-06.png)
-![Net-Test](./screenshots/kali-setup-07-1.png)
-![Net-Test](./screenshots/kali-setup-08.png)
-![Net-Test](./screenshots/kali-setup-09.png)
+![Net-Test](../screenshots/kali-setup-06.png)
+![Net-Test](../screenshots/kali-setup-07-1.png)
+![Net-Test](../screenshots/kali-setup-08.png)
+![Net-Test](../screenshots/kali-setup-09.png)
 
 ## 🧠 Key Learnings
 

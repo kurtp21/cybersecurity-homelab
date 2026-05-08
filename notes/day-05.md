@@ -30,19 +30,19 @@ The main goal of this lab is to set up Organizational Units (OUs) populating the
 ## 🌐 Setup Walkthrough
 
 **OU and User Accounts Creation**
-![OU-Setup](./screenshots/ad-ou-01.png)
-![OU-Setup](./screenshots/ad-ou-02.png)
-![OU-Setup](./screenshots/ad-ou-03.png)
-![OU-Setup](./screenshots/ad-ou-04.png)
-![OU-Setup](./screenshots/ad-ou-05.png)
+![OU-Setup](../screenshots/ad-ou-01.png)
+![OU-Setup](../screenshots/ad-ou-02.png)
+![OU-Setup](../screenshots/ad-ou-03.png)
+![OU-Setup](../screenshots/ad-ou-04.png)
+![OU-Setup](../screenshots/ad-ou-05.png)
 
 **Group Policy Setup**
-![OU-Setup](./screenshots/ad-ou-06.png)
-![OU-Setup](./screenshots/ad-ou-07.png)
-![OU-Setup](./screenshots/ad-ou-08.png)
-![OU-Setup](./screenshots/ad-ou-09.png)
-![OU-Setup](./screenshots/ad-ou-10.png)
-![OU-Setup](./screenshots/ad-ou-11.png)
+![OU-Setup](../screenshots/ad-ou-06.png)
+![OU-Setup](../screenshots/ad-ou-07.png)
+![OU-Setup](../screenshots/ad-ou-08.png)
+![OU-Setup](../screenshots/ad-ou-09.png)
+![OU-Setup](../screenshots/ad-ou-10.png)
+![OU-Setup](../screenshots/ad-ou-11.png)
 
 ---
 

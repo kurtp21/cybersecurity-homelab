@@ -21,7 +21,7 @@ notes/
 
 ## 📸 Screenshots
 
-![Folder Strucutre](./screenshots/folder-structure.png)
+![Folder Strucutre](../screenshots/folder-structure.png)
 
 ## 🧠 Key Learnings
 

@@ -95,7 +95,7 @@ Attacker machine will be isolated from the internal network as it is configured 
 ## 📸 Diagrams
 
 ***Network Layout***
-![Network Layout](./network-diagrams/network-layout-diagram.png)
+![Network Layout](../network-diagrams/network-layout-diagram.png)
 
 ---
 
