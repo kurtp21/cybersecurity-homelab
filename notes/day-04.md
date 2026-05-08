@@ -23,25 +23,25 @@ This lab will highlight the configuration of Active Directory on the Domani cont
 ## 🌐 Set-up Walk Through
 
 **Active Directory Services installation on Windows Server**
-![DC-Setup](ad-setup-01.png)
-![DC-Setup](ad-setup-02.png)
-![DC-Setup](ad-setup-03.png)
-![DC-Setup](ad-setup-04.png)
-![DC-Setup](ad-setup-05.png)
-![DC-Setup](ad-setup-06.png)
-![DC-Setup](ad-setup-07.png)
-![DC-Setup](ad-setup-08.png)
-![DC-Setup](ad-setup-09.png)
-![DC-Setup](ad-setup-010.png)
-![DC-Setup](ad-setup-11.png)
-![DC-Setup](ad-setup-12.png)
-![DC-Setup](ad-setup-13.png)
+![DC-Setup](./screenshots/ad-setup-01.png)
+![DC-Setup](./screenshots/ad-setup-02.png)
+![DC-Setup](./screenshots/ad-setup-03.png)
+![DC-Setup](./screenshots/ad-setup-04.png)
+![DC-Setup](./screenshots/ad-setup-05.png)
+![DC-Setup](./screenshots/ad-setup-06.png)
+![DC-Setup](./screenshots/ad-setup-07.png)
+![DC-Setup](./screenshots/ad-setup-08.png)
+![DC-Setup](./screenshots/ad-setup-09.png)
+![DC-Setup](./screenshots/ad-setup-010.png)
+![DC-Setup](./screenshots/ad-setup-11.png)
+![DC-Setup](./screenshots/ad-setup-12.png)
+![DC-Setup](./screenshots/ad-setup-13.png)
 
 **Adding Windows Client to Domain Controller**
-![Win-join-to-domain](ad-setup-17.png)
-![Win-join-to-domain](ad-setup-14.png)
-![Win-join-to-domain](ad-setup-15.png)
-![Win-join-to-domain](ad-setup-16.png)
+![Win-join-to-domain](./screenshots/ad-setup-17.png)
+![Win-join-to-domain](./screenshots/ad-setup-14.png)
+![Win-join-to-domain](./screenshots/ad-setup-15.png)
+![Win-join-to-domain](./screenshots/ad-setup-16.png)
 
 ## 🧠 Key Learnings
 
@@ -61,9 +61,9 @@ After searching through the web, I found out that, although you can technically 
 
 After finding this out I reconfigured the Windows Server, I removed the Active Directory Certificate Services and underwent the promotion again. I then was able to pass the prerequisite check and was able to promote the server to a Domain Controller.
 
-![DC-Error](ad-setup-error-1.png)
-![DC-Error](ad-setup-error-2.png)
-![DC-Error](ad-setup-error-3.png)
+![DC-Error](./screenshots/ad-setup-error-1.png)
+![DC-Error](./screenshots/ad-setup-error-2.png)
+![DC-Error](./screenshots/ad-setup-error-3.png)
 
 ---
 

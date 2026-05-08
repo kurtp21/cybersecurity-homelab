@@ -6,8 +6,8 @@ Set up version control and structure for documenting the homelab.
 
 ## 🛠️ Tasks Completed
 
-* Created GitHub homelab repository 
-* Intitialized git and cloned homelab repository locally 
+* Created GitHub homelab repository
+* Intitialized git and cloned homelab repository locally
 * initialized scafholding structure for lab documentation
 
 ## 📂 Folder Structure
@@ -21,7 +21,7 @@ notes/
 
 ## 📸 Screenshots
 
-![Folder Strucutre](folder-structure.png)
+![Folder Strucutre](./screenshots/folder-structure.png)
 
 ## 🧠 Key Learnings
 

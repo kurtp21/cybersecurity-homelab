@@ -39,3 +39,4 @@ This repository documents my 100-day journey building a cybersecurity homelab fo
 * Day 2 ✅ Network Design & Virtual Lab Planning
 * Day 3 ✅ VirtualBox: Configuring Virtual Machines
 * Day 4 ✅ Active Directory and Domain Setup
+* Day 5 ✅ Active Directory Users, OUs, and Group Policy
