@@ -108,7 +108,7 @@ Get-Service Sysmon64
 ```xml
 <localfile>
     <location>Microsoft-Windows-Sysmon/Operational</location>
-    <log_form>eventchannel</log_form>
+    <log_format>eventchannel</log_format>
 </localfile>
 ```
 
