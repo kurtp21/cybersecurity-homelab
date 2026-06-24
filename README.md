@@ -26,7 +26,6 @@ This repository documents my 100-day journey building a cybersecurity homelab fo
 
 ## 🗂️ Repository Structure
 
-* `/setup` → Installation & configuration logs
 * `/network-diagrams` → Lab architecture
 * `/detection-rules` → SIEM rules & queries
 * `/incident-reports` → Security investigations
