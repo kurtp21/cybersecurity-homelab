@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Homelab (100 Days Challenge)
+# 🛡️ Cybersecurity Homelab
 
 ## 📌 Overview
 
