@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository documents my 100-day journey building a cybersecurity homelab focused on blue team operations.
+This repository documents my journey building a cybersecurity homelab focused on blue team operations.
 
 ## 🎯 Goals
 
